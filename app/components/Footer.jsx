@@ -80,7 +80,7 @@ export default function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-7 text-center sm:flex-row">
           <p className="text-xs text-muted">
-            © {new Date().getFullYear()} Bijoy Hasan. All rights reserved.
+            © 2026 Bijoy Hasan. All rights reserved.
           </p>
 
           <motion.a
